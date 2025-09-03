@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm an alumnus of [Birla Institute Of Technology, Mesra](https://www.bitmesra.ac.in/). A proud BiTian :D \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
-✉️ &nbsp;You can email me at vishalroy2198@gmail.com.
+✉️ &nbsp;You can email me at vishalroy1921@gmail.com.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
